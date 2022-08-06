@@ -1,4 +1,4 @@
-const Contenedor = require("./contenedor")
+const Contenedor = require('./fileClass')
 
 const p1 = {
     "articulo":"shampoo",
@@ -56,4 +56,4 @@ console.log("Mostrando Productos")
 
 }
 
-main ()
+main()
